@@ -2,7 +2,7 @@ import pprint
 from time import sleep
 from InstagramAPI import InstagramAPI
 
-api = InstagramAPI("aoyazaki", "anna22")
+api  =  InstagramAPI ( «username», "password")
 
 api.USER_AGENT = 'Instagram 10.34.0 Android (18/4.3; 320dpi; 720x1280; Xiaomi; HM 1SW; armani; qcom; en_US)'
 
