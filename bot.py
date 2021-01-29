@@ -70,4 +70,4 @@ def get_my_feed():
     print(image_urls)
 
 
-get_likes_list('____justsomeone____')
+get_likes_list('profile_name')
